@@ -1,0 +1,930 @@
+
+1@lenovo MINGW64 ~ (master)
+$  cd C:/Users/1/Desktop/Abdulaziz
+
+1@lenovo MINGW64 ~/Desktop/Abdulaziz (master)
+$ git init
+Initialized empty Git repository in C:/Users/1/Desktop/Abdulaziz/.git/
+
+1@lenovo MINGW64 ~/Desktop/Abdulaziz (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        1.jpg
+        1556109397909.png
+        2.jpg
+        2019-04-19_18-47-40.png
+        2019-04-19_18-48-57.png
+        2019-04-19_18-49-24.png
+        2019-04-29_15-23-26.png
+        2019-04-29_15-23-39.png
+        3.jpg
+        4.jpg
+        5.jpg
+        6.jpg
+        7.jpg
+        8.jpg
+        Abdulaziz.css
+        IMG_20190420_172541_542.jpg
+        MyWeb.css
+        MyWeb.html
+        OwlCarousel2-2.3.4/
+        PicsArt_04-19-11.00.54.jpg
+        PicsArt_04-19-11.01.10.jpg
+        PicsArt_04-19-11.01.30.jpg
+        PicsArt_04-19-11.01.43.jpg
+        PicsArt_04-19-11.01.56.jpg
+        PicsArt_04-19-11.02.11.jpg
+        PicsArt_04-21-01.35.04.png
+        README.md
+        aa.ht,l.html
+        about-img.png
+        about.html
+        backg.png
+        client-1.png
+        client-2.png
+        client-3.png
+        client-4.png
+        client-5.png
+        client-6.png
+        consult.jpg
+        consulting.jpg
+        consulting2.jpg
+        contact.html
+        correct.jpg
+        creative.jpg
+        css/
+        dervice.html
+        development.jpg
+        example.html
+        face.jpg
+        financial.jpg
+        font-icon.css
+        gogle.jpg
+        gps.jpg
+        hama faylla/
+        home.html
+        img/
+        in.jpg
+        mail.jpg
+        market.jpg
+        marketing.jpg
+        phone.jpg
+        portfolio.html
+        qizaloq.svg
+        quality.jpg
+        services.html
+        strategy.jpg
+        team1.jpg
+        team2.jpg
+        team3.jpg
+        team4.jpg
+        thumbnail/
+        twit.jpg
+        undraw_in_progress_ql66.svg
+        undraw_maker_launch_crhe.svg
+        undraw_mobile_marketing_iqbr.svg
+        undraw_scrum_board_cesn.svg
+        undraw_visual_data_b1wx.svg
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+1@lenovo MINGW64 ~/Desktop/Abdulaziz (master)
+$ git add .
+warning: LF will be replaced by CRLF in README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/ionicons.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/ionicons.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in hama faylla/css/bootstrap-grid.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in hama faylla/css/bootstrap-grid.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in hama faylla/css/bootstrap-reboot.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in hama faylla/css/bootstrap-reboot.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in hama faylla/css/bootstrap.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in hama faylla/css/bootstrap.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in hama faylla/js/bootstrap.bundle.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in hama faylla/js/bootstrap.bundle.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in hama faylla/js/bootstrap.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in hama faylla/js/bootstrap.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in thumbnail/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in thumbnail/thumbnail-gallery.css.
+The file will have its original line endings in your working directory
+
+1@lenovo MINGW64 ~/Desktop/Abdulaziz (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   1.jpg
+        new file:   1556109397909.png
+        new file:   2.jpg
+        new file:   2019-04-19_18-47-40.png
+        new file:   2019-04-19_18-48-57.png
+        new file:   2019-04-19_18-49-24.png
+        new file:   2019-04-29_15-23-26.png
+        new file:   2019-04-29_15-23-39.png
+        new file:   3.jpg
+        new file:   4.jpg
+        new file:   5.jpg
+        new file:   6.jpg
+        new file:   7.jpg
+        new file:   8.jpg
+        new file:   Abdulaziz.css
+        new file:   IMG_20190420_172541_542.jpg
+        new file:   MyWeb.css
+        new file:   MyWeb.html
+        new file:   OwlCarousel2-2.3.4/.gitattributes
+        new file:   OwlCarousel2-2.3.4/.gitignore
+        new file:   OwlCarousel2-2.3.4/.travis.yml
+        new file:   OwlCarousel2-2.3.4/CONTRIBUTING.md
+        new file:   OwlCarousel2-2.3.4/Gruntfile.js
+        new file:   OwlCarousel2-2.3.4/ISSUE_TEMPLATE.md
+        new file:   OwlCarousel2-2.3.4/LICENSE
+        new file:   OwlCarousel2-2.3.4/README.md
+        new file:   OwlCarousel2-2.3.4/ROADMAP.md
+        new file:   OwlCarousel2-2.3.4/_config.json
+        new file:   OwlCarousel2-2.3.4/bower.json
+        new file:   OwlCarousel2-2.3.4/dist/LICENSE
+        new file:   OwlCarousel2-2.3.4/dist/README.md
+        new file:   OwlCarousel2-2.3.4/dist/assets/ajax-loader.gif
+        new file:   OwlCarousel2-2.3.4/dist/assets/owl.carousel.css
+        new file:   OwlCarousel2-2.3.4/dist/assets/owl.carousel.min.css
+        new file:   OwlCarousel2-2.3.4/dist/assets/owl.theme.default.css
+        new file:   OwlCarousel2-2.3.4/dist/assets/owl.theme.default.min.css
+        new file:   OwlCarousel2-2.3.4/dist/assets/owl.theme.green.css
+        new file:   OwlCarousel2-2.3.4/dist/assets/owl.theme.green.min.css
+        new file:   OwlCarousel2-2.3.4/dist/assets/owl.video.play.png
+        new file:   OwlCarousel2-2.3.4/dist/owl.carousel.js
+        new file:   OwlCarousel2-2.3.4/dist/owl.carousel.min.js
+        new file:   OwlCarousel2-2.3.4/docs/assets/css/animate.css
+        new file:   OwlCarousel2-2.3.4/docs/assets/css/docs.theme.min.css
+        new file:   OwlCarousel2-2.3.4/docs/assets/img/bird_blue_32.png
+        new file:   OwlCarousel2-2.3.4/docs/assets/img/download.png
+        new file:   OwlCarousel2-2.3.4/docs/assets/img/feature-drag.png
+        new file:   OwlCarousel2-2.3.4/docs/assets/img/feature-modern.png
+        new file:   OwlCarousel2-2.3.4/docs/assets/img/feature-module.png
+        new file:   OwlCarousel2-2.3.4/docs/assets/img/feature-options.png
+        new file:   OwlCarousel2-2.3.4/docs/assets/img/feature-responsive.png
+        new file:   OwlCarousel2-2.3.4/docs/assets/img/feature-zombie.png
+        new file:   OwlCarousel2-2.3.4/docs/assets/img/owl-logo.png
+        new file:   OwlCarousel2-2.3.4/docs/assets/img/twitter_25.png
+        new file:   OwlCarousel2-2.3.4/docs/assets/js/app.js
+        new file:   OwlCarousel2-2.3.4/docs/assets/js/foundation.min.js
+        new file:   OwlCarousel2-2.3.4/docs/assets/owlcarousel/README.md
+        new file:   OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/ajax-loader.gif
+        new file:   OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.carousel.css
+        new file:   OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.carousel.min.css
+        new file:   OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.theme.default.css
+        new file:   OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.theme.default.min.css
+        new file:   OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.theme.green.css
+        new file:   OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.theme.green.min.css
+        new file:   OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.video.play.png
+        new file:   OwlCarousel2-2.3.4/docs/assets/owlcarousel/owl.carousel.js
+        new file:   OwlCarousel2-2.3.4/docs/assets/owlcarousel/owl.carousel.min.js
+        new file:   OwlCarousel2-2.3.4/docs/assets/vendors/foundation.min.js
+        new file:   OwlCarousel2-2.3.4/docs/assets/vendors/highlight.js
+        new file:   OwlCarousel2-2.3.4/docs/assets/vendors/jquery.min.js
+        new file:   OwlCarousel2-2.3.4/docs/assets/vendors/jquery.min.map
+        new file:   OwlCarousel2-2.3.4/docs/assets/vendors/jquery.mousewheel.min.js
+        new file:   OwlCarousel2-2.3.4/docs/demos/animate.html
+        new file:   OwlCarousel2-2.3.4/docs/demos/autoheight.html
+        new file:   OwlCarousel2-2.3.4/docs/demos/autoplay.html
+        new file:   OwlCarousel2-2.3.4/docs/demos/autowidth.html
+        new file:   OwlCarousel2-2.3.4/docs/demos/basic.html
+        new file:   OwlCarousel2-2.3.4/docs/demos/center.html
+        new file:   OwlCarousel2-2.3.4/docs/demos/demos.html
+        new file:   OwlCarousel2-2.3.4/docs/demos/events.html
+        new file:   OwlCarousel2-2.3.4/docs/demos/lazyLoad.html
+        new file:   OwlCarousel2-2.3.4/docs/demos/merge.html
+        new file:   OwlCarousel2-2.3.4/docs/demos/mousewheel.html
+        new file:   OwlCarousel2-2.3.4/docs/demos/responsive.html
+        new file:   OwlCarousel2-2.3.4/docs/demos/rtl.html
+        new file:   OwlCarousel2-2.3.4/docs/demos/stagepadding.html
+        new file:   OwlCarousel2-2.3.4/docs/demos/test.html
+        new file:   OwlCarousel2-2.3.4/docs/demos/urlhashnav.html
+        new file:   OwlCarousel2-2.3.4/docs/demos/video.html
+        new file:   OwlCarousel2-2.3.4/docs/docs/api-classes.html
+        new file:   OwlCarousel2-2.3.4/docs/docs/api-events.html
+        new file:   OwlCarousel2-2.3.4/docs/docs/api-options.html
+        new file:   OwlCarousel2-2.3.4/docs/docs/dev-buildin-plugins.html
+        new file:   OwlCarousel2-2.3.4/docs/docs/dev-external.html
+        new file:   OwlCarousel2-2.3.4/docs/docs/dev-plugin-api.html
+        new file:   OwlCarousel2-2.3.4/docs/docs/dev-styles.html
+        new file:   OwlCarousel2-2.3.4/docs/docs/started-faq.html
+        new file:   OwlCarousel2-2.3.4/docs/docs/started-installation.html
+        new file:   OwlCarousel2-2.3.4/docs/docs/started-welcome.html
+        new file:   OwlCarousel2-2.3.4/docs/docs/support-changelog.html
+        new file:   OwlCarousel2-2.3.4/docs/docs/support-contact.html
+        new file:   OwlCarousel2-2.3.4/docs/docs/support-contributing.html
+        new file:   OwlCarousel2-2.3.4/docs/index.html
+        new file:   OwlCarousel2-2.3.4/docs_src/assets/css/animate.css
+        new file:   OwlCarousel2-2.3.4/docs_src/assets/img/bird_blue_32.png
+        new file:   OwlCarousel2-2.3.4/docs_src/assets/img/download.png
+        new file:   OwlCarousel2-2.3.4/docs_src/assets/img/feature-drag.png
+        new file:   OwlCarousel2-2.3.4/docs_src/assets/img/feature-modern.png
+        new file:   OwlCarousel2-2.3.4/docs_src/assets/img/feature-module.png
+        new file:   OwlCarousel2-2.3.4/docs_src/assets/img/feature-options.png
+        new file:   OwlCarousel2-2.3.4/docs_src/assets/img/feature-responsive.png
+        new file:   OwlCarousel2-2.3.4/docs_src/assets/img/feature-zombie.png
+        new file:   OwlCarousel2-2.3.4/docs_src/assets/img/owl-logo.png
+        new file:   OwlCarousel2-2.3.4/docs_src/assets/img/twitter_25.png
+        new file:   OwlCarousel2-2.3.4/docs_src/assets/js/app.js
+        new file:   OwlCarousel2-2.3.4/docs_src/assets/js/foundation.min.js
+        new file:   OwlCarousel2-2.3.4/docs_src/assets/scss/_settings.scss
+        new file:   OwlCarousel2-2.3.4/docs_src/assets/scss/custom.scss
+        new file:   OwlCarousel2-2.3.4/docs_src/assets/scss/demos.scss
+        new file:   OwlCarousel2-2.3.4/docs_src/assets/scss/docs.scss
+        new file:   OwlCarousel2-2.3.4/docs_src/assets/scss/docs.theme.scss
+        new file:   OwlCarousel2-2.3.4/docs_src/assets/scss/highlight.scss
+        new file:   OwlCarousel2-2.3.4/docs_src/assets/vendors/foundation.min.js
+        new file:   OwlCarousel2-2.3.4/docs_src/assets/vendors/highlight.js
+        new file:   OwlCarousel2-2.3.4/docs_src/assets/vendors/jquery.min.js
+        new file:   OwlCarousel2-2.3.4/docs_src/assets/vendors/jquery.min.map
+        new file:   OwlCarousel2-2.3.4/docs_src/assets/vendors/jquery.mousewheel.min.js
+        new file:   OwlCarousel2-2.3.4/docs_src/data/classes.json
+        new file:   OwlCarousel2-2.3.4/docs_src/data/events.json
+        new file:   OwlCarousel2-2.3.4/docs_src/data/features.json
+        new file:   OwlCarousel2-2.3.4/docs_src/data/options.json
+        new file:   OwlCarousel2-2.3.4/docs_src/helpers/modulo.js
+        new file:   OwlCarousel2-2.3.4/docs_src/helpers/test.js
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/layouts/demos.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/layouts/docs.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/layouts/home.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/pages/demos/animate.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/pages/demos/autoheight.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/pages/demos/autoplay.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/pages/demos/autowidth.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/pages/demos/basic.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/pages/demos/center.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/pages/demos/demos.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/pages/demos/events.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/pages/demos/lazyLoad.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/pages/demos/merge.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/pages/demos/mousewheel.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/pages/demos/responsive.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/pages/demos/rtl.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/pages/demos/stagepadding.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/pages/demos/test.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/pages/demos/urlhashnav.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/pages/demos/video.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/pages/docs/api-classes.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/pages/docs/api-events.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/pages/docs/api-options.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/pages/docs/dev-buildin-plugins.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/pages/docs/dev-external.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/pages/docs/dev-plugin-api.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/pages/docs/dev-styles.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/pages/docs/started-faq.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/pages/docs/started-installation.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/pages/docs/started-welcome.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/pages/docs/support-changelog.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/pages/docs/support-contact.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/pages/docs/support-contributing.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/pages/index.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/partials/footer.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/partials/head.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/partials/header.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/partials/home-carousel.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/partials/home-features.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/partials/home-hero.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/partials/home-teaser-text.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/partials/javascripts.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/partials/releated-docs.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/partials/sidenav-docs.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/partials/title.hbs
+        new file:   OwlCarousel2-2.3.4/docs_src/templates/partials/vendors.hbs
+        new file:   OwlCarousel2-2.3.4/package-lock.json
+        new file:   OwlCarousel2-2.3.4/package.json
+        new file:   OwlCarousel2-2.3.4/src/img/ajax-loader.gif
+        new file:   OwlCarousel2-2.3.4/src/img/owl.video.play.png
+        new file:   OwlCarousel2-2.3.4/src/js/.jscsrc
+        new file:   OwlCarousel2-2.3.4/src/js/.jshintrc
+        new file:   OwlCarousel2-2.3.4/src/js/owl.animate.js
+        new file:   OwlCarousel2-2.3.4/src/js/owl.autoheight.js
+        new file:   OwlCarousel2-2.3.4/src/js/owl.autoplay.js
+        new file:   OwlCarousel2-2.3.4/src/js/owl.autorefresh.js
+        new file:   OwlCarousel2-2.3.4/src/js/owl.carousel.js
+        new file:   OwlCarousel2-2.3.4/src/js/owl.hash.js
+        new file:   OwlCarousel2-2.3.4/src/js/owl.lazyload.js
+        new file:   OwlCarousel2-2.3.4/src/js/owl.navigation.js
+        new file:   OwlCarousel2-2.3.4/src/js/owl.support.js
+        new file:   OwlCarousel2-2.3.4/src/js/owl.support.modernizr.js
+        new file:   OwlCarousel2-2.3.4/src/js/owl.video.js
+        new file:   OwlCarousel2-2.3.4/src/scss/_animate.scss
+        new file:   OwlCarousel2-2.3.4/src/scss/_autoheight.scss
+        new file:   OwlCarousel2-2.3.4/src/scss/_core.scss
+        new file:   OwlCarousel2-2.3.4/src/scss/_lazyload.scss
+        new file:   OwlCarousel2-2.3.4/src/scss/_theme.default.scss
+        new file:   OwlCarousel2-2.3.4/src/scss/_theme.green.scss
+        new file:   OwlCarousel2-2.3.4/src/scss/_theme.scss
+        new file:   OwlCarousel2-2.3.4/src/scss/_video.scss
+        new file:   OwlCarousel2-2.3.4/src/scss/owl.carousel.scss
+        new file:   OwlCarousel2-2.3.4/src/scss/owl.theme.default.scss
+        new file:   OwlCarousel2-2.3.4/src/scss/owl.theme.green.scss
+        new file:   OwlCarousel2-2.3.4/test/index.html
+        new file:   OwlCarousel2-2.3.4/test/unit/autoplay.js
+        new file:   OwlCarousel2-2.3.4/test/unit/core.js
+        new file:   PicsArt_04-19-11.00.54.jpg
+        new file:   PicsArt_04-19-11.01.10.jpg
+        new file:   PicsArt_04-19-11.01.30.jpg
+        new file:   PicsArt_04-19-11.01.43.jpg
+        new file:   PicsArt_04-19-11.01.56.jpg
+        new file:   PicsArt_04-19-11.02.11.jpg
+        new file:   PicsArt_04-21-01.35.04.png
+        new file:   README.md
+        new file:   aa.ht,l.html
+        new file:   about-img.png
+        new file:   about.html
+        new file:   backg.png
+        new file:   client-1.png
+        new file:   client-2.png
+        new file:   client-3.png
+        new file:   client-4.png
+        new file:   client-5.png
+        new file:   client-6.png
+        new file:   consult.jpg
+        new file:   consulting.jpg
+        new file:   consulting2.jpg
+        new file:   contact.html
+        new file:   correct.jpg
+        new file:   creative.jpg
+        new file:   css/ionicons.css
+        new file:   css/ionicons.min.css
+        new file:   dervice.html
+        new file:   development.jpg
+        new file:   example.html
+        new file:   face.jpg
+        new file:   financial.jpg
+        new file:   font-icon.css
+        new file:   gogle.jpg
+        new file:   gps.jpg
+        new file:   hama faylla/1554893735942.png
+        new file:   hama faylla/20190410_163514.png
+        new file:   hama faylla/2ta 10ci kirpich.html
+        new file:   hama faylla/431834565_21828.jpg
+        new file:   hama faylla/IMG_20170825_154406.jpg
+        new file:   hama faylla/IMG_20170902_135124.jpg
+        new file:   hama faylla/IMG_20171011_182132.jpg
+        new file:   hama faylla/ITkirpich13.html
+        new file:   hama faylla/It14.html
+        new file:   hama faylla/KIRPICH 17/20190403_151648.jpg
+        new file:   hama faylla/KIRPICH 17/HomePage.png
+        new file:   hama faylla/KIRPICH 17/bear-beautiful-concept-1028729.jpg
+        new file:   hama faylla/KIRPICH 17/berries-blueberries-cake-1126359.jpg
+        new file:   hama faylla/KIRPICH 17/doc_2018-07-26_18-10-40.png
+        new file:   hama faylla/KIRPICH 17/doc_2018-07-26_18-10-44.png
+        new file:   hama faylla/KIRPICH 17/doc_2018-07-26_18-10-47.png
+        new file:   hama faylla/KIRPICH 17/gift-553149.jpg
+        new file:   hama faylla/KIRPICH 17/image_2018-07-26_17-46-57.png
+        new file:   hama faylla/KIRPICH 17/image_2018-07-26_18-09-19.png
+        new file:   hama faylla/KIRPICH 17/kirpich17.css
+        new file:   hama faylla/KIRPICH 17/kirpich17.html
+        new file:   hama faylla/KIRPICH 17/messenger-user-avatar.png
+        new file:   hama faylla/KIRPICH 17/online-shopping-cart.png
+        new file:   hama faylla/KIRPICH 17/photo_2018-07-26_03-58-29.jpg
+        new file:   hama faylla/KIRPICH 17/photo_2018-07-26_03-58-55.jpg
+        new file:   hama faylla/KIRPICH 18/1554350542034.png
+        new file:   hama faylla/KIRPICH 18/1554350591584.png
+        new file:   hama faylla/KIRPICH 18/1554350653900.png
+        new file:   hama faylla/KIRPICH 18/1554373040522.png
+        new file:   hama faylla/KIRPICH 18/20190404_090635.png
+        new file:   hama faylla/KIRPICH 18/20190404_090717.png
+        new file:   hama faylla/KIRPICH 18/20190404_115958.jpg
+        new file:   hama faylla/KIRPICH 18/20190404_151550.jpg
+        new file:   hama faylla/KIRPICH 18/Cuda Single Page Portfolio.jpg
+        new file:   hama faylla/KIRPICH 18/kirpich18.css
+        new file:   hama faylla/KIRPICH 18/kirpich18.html
+        new file:   hama faylla/KIRPICH 18/photo_2019-04-03_21-12-38.jpg
+        new file:   hama faylla/NK.HTML
+        new file:   hama faylla/Untitled 6.mp4
+        new file:   hama faylla/Untitled 7.avi
+        new file:   hama faylla/adabtiv.css
+        new file:   hama faylla/adabtiv.html
+        new file:   hama faylla/auu.html
+        new file:   hama faylla/css/bootstrap-grid.css
+        new file:   hama faylla/css/bootstrap-grid.css.map
+        new file:   hama faylla/css/bootstrap-grid.min.css
+        new file:   hama faylla/css/bootstrap-grid.min.css.map
+        new file:   hama faylla/css/bootstrap-reboot.css
+        new file:   hama faylla/css/bootstrap-reboot.css.map
+        new file:   hama faylla/css/bootstrap-reboot.min.css
+        new file:   hama faylla/css/bootstrap-reboot.min.css.map
+        new file:   hama faylla/css/bootstrap.css
+        new file:   hama faylla/css/bootstrap.css.map
+        new file:   hama faylla/css/bootstrap.min.css
+        new file:   hama faylla/css/bootstrap.min.css.map
+        new file:   hama faylla/css/reset.css
+        new file:   hama faylla/css/style.css
+        new file:   hama faylla/delete.png
+        new file:   hama faylla/eddit.png
+        new file:   hama faylla/edit.png
+        new file:   hama faylla/index.php
+        new file:   hama faylla/ishla/it15.html
+        new file:   hama faylla/it15.html
+        new file:   hama faylla/itp.html
+        new file:   hama faylla/jjnk.html
+        new file:   hama faylla/jquery/jquery.js
+        new file:   hama faylla/js/bootstrap.bundle.js
+        new file:   hama faylla/js/bootstrap.bundle.js.map
+        new file:   hama faylla/js/bootstrap.bundle.min.js
+        new file:   hama faylla/js/bootstrap.bundle.min.js.map
+        new file:   hama faylla/js/bootstrap.js
+        new file:   hama faylla/js/bootstrap.js.map
+        new file:   hama faylla/js/bootstrap.min.js
+        new file:   hama faylla/js/bootstrap.min.js.map
+        new file:   hama faylla/kirpich1.1.html
+        new file:   hama faylla/kirpich10.html
+        new file:   hama faylla/kirpich11.html
+        new file:   hama faylla/kirpich12.html
+        new file:   hama faylla/kirpich13.html
+        new file:   hama faylla/kirpich14.html
+        new file:   hama faylla/kirpich2.css
+        new file:   hama faylla/kirpich2.html
+        new file:   hama faylla/kirpich5.html
+        new file:   hama faylla/kirpich7.html
+        new file:   hama faylla/kirpich77.html
+        new file:   hama faylla/kirpich777.html
+        new file:   hama faylla/krpch8.html
+        new file:   hama faylla/love.png
+        new file:   hama faylla/photos/PHONE.jpg
+        new file:   hama faylla/photos/Thumbs.db
+        new file:   hama faylla/photos/bl_line.jpg
+        new file:   hama faylla/photos/body_main.jpg
+        new file:   hama faylla/photos/comp_prof.jpg
+        new file:   hama faylla/photos/end.jpg
+        new file:   hama faylla/photos/five.jpg
+        new file:   hama faylla/photos/four.jpg
+        new file:   hama faylla/photos/icon.jpg
+        new file:   hama faylla/photos/lg.jpg
+        new file:   hama faylla/photos/logo.svg
+        new file:   hama faylla/photos/mb.jpg
+        new file:   hama faylla/photos/middle.jpg
+        new file:   hama faylla/photos/our_hist.jpg
+        new file:   hama faylla/photos/our_miss.jpg
+        new file:   hama faylla/photos/parallax_img.jpg
+        new file:   hama faylla/photos/people.jpg
+        new file:   hama faylla/photos/read.jpg
+        new file:   hama faylla/photos/red_line.jpg
+        new file:   hama faylla/photos/sc.jpg
+        new file:   hama faylla/photos/six.jpg
+        new file:   hama faylla/photos/top.jpg
+        new file:   hama faylla/sdd.html
+        new file:   hama faylla/web.html
+        new file:   home.html
+        new file:   img/about.svg
+        new file:   img/apple-touch-icon.png
+        new file:   img/favicon.png
+        new file:   img/preloader.gif
+        new file:   in.jpg
+        new file:   mail.jpg
+        new file:   market.jpg
+        new file:   marketing.jpg
+        new file:   phone.jpg
+        new file:   portfolio.html
+        new file:   qizaloq.svg
+        new file:   quality.jpg
+        new file:   services.html
+        new file:   strategy.jpg
+        new file:   team1.jpg
+        new file:   team2.jpg
+        new file:   team3.jpg
+        new file:   team4.jpg
+        new file:   thumbnail/index.html
+        new file:   thumbnail/thumbnail-gallery.css
+        new file:   twit.jpg
+        new file:   undraw_in_progress_ql66.svg
+        new file:   undraw_maker_launch_crhe.svg
+        new file:   undraw_mobile_marketing_iqbr.svg
+        new file:   undraw_scrum_board_cesn.svg
+        new file:   undraw_visual_data_b1wx.svg
+
+
+1@lenovo MINGW64 ~/Desktop/Abdulaziz (master)
+$ git add home.html about.html portfolio.html services.html contact.html
+
+1@lenovo MINGW64 ~/Desktop/Abdulaziz (master)
+$ git commit -m "value"
+[master (root-commit) bf933f9] value
+ 382 files changed, 70005 insertions(+)
+ create mode 100644 1.jpg
+ create mode 100644 1556109397909.png
+ create mode 100644 2.jpg
+ create mode 100644 2019-04-19_18-47-40.png
+ create mode 100644 2019-04-19_18-48-57.png
+ create mode 100644 2019-04-19_18-49-24.png
+ create mode 100644 2019-04-29_15-23-26.png
+ create mode 100644 2019-04-29_15-23-39.png
+ create mode 100644 3.jpg
+ create mode 100644 4.jpg
+ create mode 100644 5.jpg
+ create mode 100644 6.jpg
+ create mode 100644 7.jpg
+ create mode 100644 8.jpg
+ create mode 100644 Abdulaziz.css
+ create mode 100644 IMG_20190420_172541_542.jpg
+ create mode 100644 MyWeb.css
+ create mode 100644 MyWeb.html
+ create mode 100644 OwlCarousel2-2.3.4/.gitattributes
+ create mode 100644 OwlCarousel2-2.3.4/.gitignore
+ create mode 100644 OwlCarousel2-2.3.4/.travis.yml
+ create mode 100644 OwlCarousel2-2.3.4/CONTRIBUTING.md
+ create mode 100644 OwlCarousel2-2.3.4/Gruntfile.js
+ create mode 100644 OwlCarousel2-2.3.4/ISSUE_TEMPLATE.md
+ create mode 100644 OwlCarousel2-2.3.4/LICENSE
+ create mode 100644 OwlCarousel2-2.3.4/README.md
+ create mode 100644 OwlCarousel2-2.3.4/ROADMAP.md
+ create mode 100644 OwlCarousel2-2.3.4/_config.json
+ create mode 100644 OwlCarousel2-2.3.4/bower.json
+ create mode 100644 OwlCarousel2-2.3.4/dist/LICENSE
+ create mode 100644 OwlCarousel2-2.3.4/dist/README.md
+ create mode 100644 OwlCarousel2-2.3.4/dist/assets/ajax-loader.gif
+ create mode 100644 OwlCarousel2-2.3.4/dist/assets/owl.carousel.css
+ create mode 100644 OwlCarousel2-2.3.4/dist/assets/owl.carousel.min.css
+ create mode 100644 OwlCarousel2-2.3.4/dist/assets/owl.theme.default.css
+ create mode 100644 OwlCarousel2-2.3.4/dist/assets/owl.theme.default.min.css
+ create mode 100644 OwlCarousel2-2.3.4/dist/assets/owl.theme.green.css
+ create mode 100644 OwlCarousel2-2.3.4/dist/assets/owl.theme.green.min.css
+ create mode 100644 OwlCarousel2-2.3.4/dist/assets/owl.video.play.png
+ create mode 100644 OwlCarousel2-2.3.4/dist/owl.carousel.js
+ create mode 100644 OwlCarousel2-2.3.4/dist/owl.carousel.min.js
+ create mode 100644 OwlCarousel2-2.3.4/docs/assets/css/animate.css
+ create mode 100644 OwlCarousel2-2.3.4/docs/assets/css/docs.theme.min.css
+ create mode 100644 OwlCarousel2-2.3.4/docs/assets/img/bird_blue_32.png
+ create mode 100644 OwlCarousel2-2.3.4/docs/assets/img/download.png
+ create mode 100644 OwlCarousel2-2.3.4/docs/assets/img/feature-drag.png
+ create mode 100644 OwlCarousel2-2.3.4/docs/assets/img/feature-modern.png
+ create mode 100644 OwlCarousel2-2.3.4/docs/assets/img/feature-module.png
+ create mode 100644 OwlCarousel2-2.3.4/docs/assets/img/feature-options.png
+ create mode 100644 OwlCarousel2-2.3.4/docs/assets/img/feature-responsive.png
+ create mode 100644 OwlCarousel2-2.3.4/docs/assets/img/feature-zombie.png
+ create mode 100644 OwlCarousel2-2.3.4/docs/assets/img/owl-logo.png
+ create mode 100644 OwlCarousel2-2.3.4/docs/assets/img/twitter_25.png
+ create mode 100644 OwlCarousel2-2.3.4/docs/assets/js/app.js
+ create mode 100644 OwlCarousel2-2.3.4/docs/assets/js/foundation.min.js
+ create mode 100644 OwlCarousel2-2.3.4/docs/assets/owlcarousel/README.md
+ create mode 100644 OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/ajax-loader.gif
+ create mode 100644 OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.carousel.css
+ create mode 100644 OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.carousel.min.css
+ create mode 100644 OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.theme.default.css
+ create mode 100644 OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.theme.default.min.css
+ create mode 100644 OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.theme.green.css
+ create mode 100644 OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.theme.green.min.css
+ create mode 100644 OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.video.play.png
+ create mode 100644 OwlCarousel2-2.3.4/docs/assets/owlcarousel/owl.carousel.js
+ create mode 100644 OwlCarousel2-2.3.4/docs/assets/owlcarousel/owl.carousel.min.js
+ create mode 100644 OwlCarousel2-2.3.4/docs/assets/vendors/foundation.min.js
+ create mode 100644 OwlCarousel2-2.3.4/docs/assets/vendors/highlight.js
+ create mode 100644 OwlCarousel2-2.3.4/docs/assets/vendors/jquery.min.js
+ create mode 100644 OwlCarousel2-2.3.4/docs/assets/vendors/jquery.min.map
+ create mode 100644 OwlCarousel2-2.3.4/docs/assets/vendors/jquery.mousewheel.min.js
+ create mode 100644 OwlCarousel2-2.3.4/docs/demos/animate.html
+ create mode 100644 OwlCarousel2-2.3.4/docs/demos/autoheight.html
+ create mode 100644 OwlCarousel2-2.3.4/docs/demos/autoplay.html
+ create mode 100644 OwlCarousel2-2.3.4/docs/demos/autowidth.html
+ create mode 100644 OwlCarousel2-2.3.4/docs/demos/basic.html
+ create mode 100644 OwlCarousel2-2.3.4/docs/demos/center.html
+ create mode 100644 OwlCarousel2-2.3.4/docs/demos/demos.html
+ create mode 100644 OwlCarousel2-2.3.4/docs/demos/events.html
+ create mode 100644 OwlCarousel2-2.3.4/docs/demos/lazyLoad.html
+ create mode 100644 OwlCarousel2-2.3.4/docs/demos/merge.html
+ create mode 100644 OwlCarousel2-2.3.4/docs/demos/mousewheel.html
+ create mode 100644 OwlCarousel2-2.3.4/docs/demos/responsive.html
+ create mode 100644 OwlCarousel2-2.3.4/docs/demos/rtl.html
+ create mode 100644 OwlCarousel2-2.3.4/docs/demos/stagepadding.html
+ create mode 100644 OwlCarousel2-2.3.4/docs/demos/test.html
+ create mode 100644 OwlCarousel2-2.3.4/docs/demos/urlhashnav.html
+ create mode 100644 OwlCarousel2-2.3.4/docs/demos/video.html
+ create mode 100644 OwlCarousel2-2.3.4/docs/docs/api-classes.html
+ create mode 100644 OwlCarousel2-2.3.4/docs/docs/api-events.html
+ create mode 100644 OwlCarousel2-2.3.4/docs/docs/api-options.html
+ create mode 100644 OwlCarousel2-2.3.4/docs/docs/dev-buildin-plugins.html
+ create mode 100644 OwlCarousel2-2.3.4/docs/docs/dev-external.html
+ create mode 100644 OwlCarousel2-2.3.4/docs/docs/dev-plugin-api.html
+ create mode 100644 OwlCarousel2-2.3.4/docs/docs/dev-styles.html
+ create mode 100644 OwlCarousel2-2.3.4/docs/docs/started-faq.html
+ create mode 100644 OwlCarousel2-2.3.4/docs/docs/started-installation.html
+ create mode 100644 OwlCarousel2-2.3.4/docs/docs/started-welcome.html
+ create mode 100644 OwlCarousel2-2.3.4/docs/docs/support-changelog.html
+ create mode 100644 OwlCarousel2-2.3.4/docs/docs/support-contact.html
+ create mode 100644 OwlCarousel2-2.3.4/docs/docs/support-contributing.html
+ create mode 100644 OwlCarousel2-2.3.4/docs/index.html
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/assets/css/animate.css
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/assets/img/bird_blue_32.png
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/assets/img/download.png
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/assets/img/feature-drag.png
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/assets/img/feature-modern.png
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/assets/img/feature-module.png
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/assets/img/feature-options.png
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/assets/img/feature-responsive.png
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/assets/img/feature-zombie.png
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/assets/img/owl-logo.png
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/assets/img/twitter_25.png
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/assets/js/app.js
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/assets/js/foundation.min.js
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/assets/scss/_settings.scss
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/assets/scss/custom.scss
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/assets/scss/demos.scss
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/assets/scss/docs.scss
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/assets/scss/docs.theme.scss
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/assets/scss/highlight.scss
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/assets/vendors/foundation.min.js
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/assets/vendors/highlight.js
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/assets/vendors/jquery.min.js
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/assets/vendors/jquery.min.map
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/assets/vendors/jquery.mousewheel.min.js
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/data/classes.json
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/data/events.json
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/data/features.json
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/data/options.json
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/helpers/modulo.js
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/helpers/test.js
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/layouts/demos.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/layouts/docs.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/layouts/home.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/pages/demos/animate.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/pages/demos/autoheight.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/pages/demos/autoplay.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/pages/demos/autowidth.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/pages/demos/basic.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/pages/demos/center.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/pages/demos/demos.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/pages/demos/events.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/pages/demos/lazyLoad.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/pages/demos/merge.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/pages/demos/mousewheel.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/pages/demos/responsive.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/pages/demos/rtl.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/pages/demos/stagepadding.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/pages/demos/test.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/pages/demos/urlhashnav.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/pages/demos/video.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/pages/docs/api-classes.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/pages/docs/api-events.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/pages/docs/api-options.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/pages/docs/dev-buildin-plugins.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/pages/docs/dev-external.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/pages/docs/dev-plugin-api.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/pages/docs/dev-styles.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/pages/docs/started-faq.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/pages/docs/started-installation.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/pages/docs/started-welcome.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/pages/docs/support-changelog.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/pages/docs/support-contact.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/pages/docs/support-contributing.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/pages/index.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/partials/footer.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/partials/head.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/partials/header.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/partials/home-carousel.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/partials/home-features.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/partials/home-hero.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/partials/home-teaser-text.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/partials/javascripts.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/partials/releated-docs.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/partials/sidenav-docs.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/partials/title.hbs
+ create mode 100644 OwlCarousel2-2.3.4/docs_src/templates/partials/vendors.hbs
+ create mode 100644 OwlCarousel2-2.3.4/package-lock.json
+ create mode 100644 OwlCarousel2-2.3.4/package.json
+ create mode 100644 OwlCarousel2-2.3.4/src/img/ajax-loader.gif
+ create mode 100644 OwlCarousel2-2.3.4/src/img/owl.video.play.png
+ create mode 100644 OwlCarousel2-2.3.4/src/js/.jscsrc
+ create mode 100644 OwlCarousel2-2.3.4/src/js/.jshintrc
+ create mode 100644 OwlCarousel2-2.3.4/src/js/owl.animate.js
+ create mode 100644 OwlCarousel2-2.3.4/src/js/owl.autoheight.js
+ create mode 100644 OwlCarousel2-2.3.4/src/js/owl.autoplay.js
+ create mode 100644 OwlCarousel2-2.3.4/src/js/owl.autorefresh.js
+ create mode 100644 OwlCarousel2-2.3.4/src/js/owl.carousel.js
+ create mode 100644 OwlCarousel2-2.3.4/src/js/owl.hash.js
+ create mode 100644 OwlCarousel2-2.3.4/src/js/owl.lazyload.js
+ create mode 100644 OwlCarousel2-2.3.4/src/js/owl.navigation.js
+ create mode 100644 OwlCarousel2-2.3.4/src/js/owl.support.js
+ create mode 100644 OwlCarousel2-2.3.4/src/js/owl.support.modernizr.js
+ create mode 100644 OwlCarousel2-2.3.4/src/js/owl.video.js
+ create mode 100644 OwlCarousel2-2.3.4/src/scss/_animate.scss
+ create mode 100644 OwlCarousel2-2.3.4/src/scss/_autoheight.scss
+ create mode 100644 OwlCarousel2-2.3.4/src/scss/_core.scss
+ create mode 100644 OwlCarousel2-2.3.4/src/scss/_lazyload.scss
+ create mode 100644 OwlCarousel2-2.3.4/src/scss/_theme.default.scss
+ create mode 100644 OwlCarousel2-2.3.4/src/scss/_theme.green.scss
+ create mode 100644 OwlCarousel2-2.3.4/src/scss/_theme.scss
+ create mode 100644 OwlCarousel2-2.3.4/src/scss/_video.scss
+ create mode 100644 OwlCarousel2-2.3.4/src/scss/owl.carousel.scss
+ create mode 100644 OwlCarousel2-2.3.4/src/scss/owl.theme.default.scss
+ create mode 100644 OwlCarousel2-2.3.4/src/scss/owl.theme.green.scss
+ create mode 100644 OwlCarousel2-2.3.4/test/index.html
+ create mode 100644 OwlCarousel2-2.3.4/test/unit/autoplay.js
+ create mode 100644 OwlCarousel2-2.3.4/test/unit/core.js
+ create mode 100644 PicsArt_04-19-11.00.54.jpg
+ create mode 100644 PicsArt_04-19-11.01.10.jpg
+ create mode 100644 PicsArt_04-19-11.01.30.jpg
+ create mode 100644 PicsArt_04-19-11.01.43.jpg
+ create mode 100644 PicsArt_04-19-11.01.56.jpg
+ create mode 100644 PicsArt_04-19-11.02.11.jpg
+ create mode 100644 PicsArt_04-21-01.35.04.png
+ create mode 100644 README.md
+ create mode 100644 aa.ht,l.html
+ create mode 100644 about-img.png
+ create mode 100644 about.html
+ create mode 100644 backg.png
+ create mode 100644 client-1.png
+ create mode 100644 client-2.png
+ create mode 100644 client-3.png
+ create mode 100644 client-4.png
+ create mode 100644 client-5.png
+ create mode 100644 client-6.png
+ create mode 100644 consult.jpg
+ create mode 100644 consulting.jpg
+ create mode 100644 consulting2.jpg
+ create mode 100644 contact.html
+ create mode 100644 correct.jpg
+ create mode 100644 creative.jpg
+ create mode 100644 css/ionicons.css
+ create mode 100644 css/ionicons.min.css
+ create mode 100644 dervice.html
+ create mode 100644 development.jpg
+ create mode 100644 example.html
+ create mode 100644 face.jpg
+ create mode 100644 financial.jpg
+ create mode 100644 font-icon.css
+ create mode 100644 gogle.jpg
+ create mode 100644 gps.jpg
+ create mode 100644 hama faylla/1554893735942.png
+ create mode 100644 hama faylla/20190410_163514.png
+ create mode 100644 hama faylla/2ta 10ci kirpich.html
+ create mode 100644 hama faylla/431834565_21828.jpg
+ create mode 100644 hama faylla/IMG_20170825_154406.jpg
+ create mode 100644 hama faylla/IMG_20170902_135124.jpg
+ create mode 100644 hama faylla/IMG_20171011_182132.jpg
+ create mode 100644 hama faylla/ITkirpich13.html
+ create mode 100644 hama faylla/It14.html
+ create mode 100644 hama faylla/KIRPICH 17/20190403_151648.jpg
+ create mode 100644 hama faylla/KIRPICH 17/HomePage.png
+ create mode 100644 hama faylla/KIRPICH 17/bear-beautiful-concept-1028729.jpg
+ create mode 100644 hama faylla/KIRPICH 17/berries-blueberries-cake-1126359.jpg
+ create mode 100644 hama faylla/KIRPICH 17/doc_2018-07-26_18-10-40.png
+ create mode 100644 hama faylla/KIRPICH 17/doc_2018-07-26_18-10-44.png
+ create mode 100644 hama faylla/KIRPICH 17/doc_2018-07-26_18-10-47.png
+ create mode 100644 hama faylla/KIRPICH 17/gift-553149.jpg
+ create mode 100644 hama faylla/KIRPICH 17/image_2018-07-26_17-46-57.png
+ create mode 100644 hama faylla/KIRPICH 17/image_2018-07-26_18-09-19.png
+ create mode 100644 hama faylla/KIRPICH 17/kirpich17.css
+ create mode 100644 hama faylla/KIRPICH 17/kirpich17.html
+ create mode 100644 hama faylla/KIRPICH 17/messenger-user-avatar.png
+ create mode 100644 hama faylla/KIRPICH 17/online-shopping-cart.png
+ create mode 100644 hama faylla/KIRPICH 17/photo_2018-07-26_03-58-29.jpg
+ create mode 100644 hama faylla/KIRPICH 17/photo_2018-07-26_03-58-55.jpg
+ create mode 100644 hama faylla/KIRPICH 18/1554350542034.png
+ create mode 100644 hama faylla/KIRPICH 18/1554350591584.png
+ create mode 100644 hama faylla/KIRPICH 18/1554350653900.png
+ create mode 100644 hama faylla/KIRPICH 18/1554373040522.png
+ create mode 100644 hama faylla/KIRPICH 18/20190404_090635.png
+ create mode 100644 hama faylla/KIRPICH 18/20190404_090717.png
+ create mode 100644 hama faylla/KIRPICH 18/20190404_115958.jpg
+ create mode 100644 hama faylla/KIRPICH 18/20190404_151550.jpg
+ create mode 100644 hama faylla/KIRPICH 18/Cuda Single Page Portfolio.jpg
+ create mode 100644 hama faylla/KIRPICH 18/kirpich18.css
+ create mode 100644 hama faylla/KIRPICH 18/kirpich18.html
+ create mode 100644 hama faylla/KIRPICH 18/photo_2019-04-03_21-12-38.jpg
+ create mode 100644 hama faylla/NK.HTML
+ create mode 100644 hama faylla/Untitled 6.mp4
+ create mode 100644 hama faylla/Untitled 7.avi
+ create mode 100644 hama faylla/adabtiv.css
+ create mode 100644 hama faylla/adabtiv.html
+ create mode 100644 hama faylla/auu.html
+ create mode 100644 hama faylla/css/bootstrap-grid.css
+ create mode 100644 hama faylla/css/bootstrap-grid.css.map
+ create mode 100644 hama faylla/css/bootstrap-grid.min.css
+ create mode 100644 hama faylla/css/bootstrap-grid.min.css.map
+ create mode 100644 hama faylla/css/bootstrap-reboot.css
+ create mode 100644 hama faylla/css/bootstrap-reboot.css.map
+ create mode 100644 hama faylla/css/bootstrap-reboot.min.css
+ create mode 100644 hama faylla/css/bootstrap-reboot.min.css.map
+ create mode 100644 hama faylla/css/bootstrap.css
+ create mode 100644 hama faylla/css/bootstrap.css.map
+ create mode 100644 hama faylla/css/bootstrap.min.css
+ create mode 100644 hama faylla/css/bootstrap.min.css.map
+ create mode 100644 hama faylla/css/reset.css
+ create mode 100644 hama faylla/css/style.css
+ create mode 100644 hama faylla/delete.png
+ create mode 100644 hama faylla/eddit.png
+ create mode 100644 hama faylla/edit.png
+ create mode 100644 hama faylla/index.php
+ create mode 100644 hama faylla/ishla/it15.html
+ create mode 100644 hama faylla/it15.html
+ create mode 100644 hama faylla/itp.html
+ create mode 100644 hama faylla/jjnk.html
+ create mode 100644 hama faylla/jquery/jquery.js
+ create mode 100644 hama faylla/js/bootstrap.bundle.js
+ create mode 100644 hama faylla/js/bootstrap.bundle.js.map
+ create mode 100644 hama faylla/js/bootstrap.bundle.min.js
+ create mode 100644 hama faylla/js/bootstrap.bundle.min.js.map
+ create mode 100644 hama faylla/js/bootstrap.js
+ create mode 100644 hama faylla/js/bootstrap.js.map
+ create mode 100644 hama faylla/js/bootstrap.min.js
+ create mode 100644 hama faylla/js/bootstrap.min.js.map
+ create mode 100644 hama faylla/kirpich1.1.html
+ create mode 100644 hama faylla/kirpich10.html
+ create mode 100644 hama faylla/kirpich11.html
+ create mode 100644 hama faylla/kirpich12.html
+ create mode 100644 hama faylla/kirpich13.html
+ create mode 100644 hama faylla/kirpich14.html
+ create mode 100644 hama faylla/kirpich2.css
+ create mode 100644 hama faylla/kirpich2.html
+ create mode 100644 hama faylla/kirpich5.html
+ create mode 100644 hama faylla/kirpich7.html
+ create mode 100644 hama faylla/kirpich77.html
+ create mode 100644 hama faylla/kirpich777.html
+ create mode 100644 hama faylla/krpch8.html
+ create mode 100644 hama faylla/love.png
+ create mode 100644 hama faylla/photos/PHONE.jpg
+ create mode 100644 hama faylla/photos/Thumbs.db
+ create mode 100644 hama faylla/photos/bl_line.jpg
+ create mode 100644 hama faylla/photos/body_main.jpg
+ create mode 100644 hama faylla/photos/comp_prof.jpg
+ create mode 100644 hama faylla/photos/end.jpg
+ create mode 100644 hama faylla/photos/five.jpg
+ create mode 100644 hama faylla/photos/four.jpg
+ create mode 100644 hama faylla/photos/icon.jpg
+ create mode 100644 hama faylla/photos/lg.jpg
+ create mode 100644 hama faylla/photos/logo.svg
+ create mode 100644 hama faylla/photos/mb.jpg
+ create mode 100644 hama faylla/photos/middle.jpg
+ create mode 100644 hama faylla/photos/our_hist.jpg
+ create mode 100644 hama faylla/photos/our_miss.jpg
+ create mode 100644 hama faylla/photos/parallax_img.jpg
+ create mode 100644 hama faylla/photos/people.jpg
+ create mode 100644 hama faylla/photos/read.jpg
+ create mode 100644 hama faylla/photos/red_line.jpg
+ create mode 100644 hama faylla/photos/sc.jpg
+ create mode 100644 hama faylla/photos/six.jpg
+ create mode 100644 hama faylla/photos/top.jpg
+ create mode 100644 hama faylla/sdd.html
+ create mode 100644 hama faylla/web.html
+ create mode 100644 home.html
+ create mode 100644 img/about.svg
+ create mode 100644 img/apple-touch-icon.png
+ create mode 100644 img/favicon.png
+ create mode 100644 img/preloader.gif
+ create mode 100644 in.jpg
+ create mode 100644 mail.jpg
+ create mode 100644 market.jpg
+ create mode 100644 marketing.jpg
+ create mode 100644 phone.jpg
+ create mode 100644 portfolio.html
+ create mode 100644 qizaloq.svg
+ create mode 100644 quality.jpg
+ create mode 100644 services.html
+ create mode 100644 strategy.jpg
+ create mode 100644 team1.jpg
+ create mode 100644 team2.jpg
+ create mode 100644 team3.jpg
+ create mode 100644 team4.jpg
+ create mode 100644 thumbnail/index.html
+ create mode 100644 thumbnail/thumbnail-gallery.css
+ create mode 100644 twit.jpg
+ create mode 100644 undraw_in_progress_ql66.svg
+ create mode 100644 undraw_maker_launch_crhe.svg
+ create mode 100644 undraw_mobile_marketing_iqbr.svg
+ create mode 100644 undraw_scrum_board_cesn.svg
+ create mode 100644 undraw_visual_data_b1wx.svg
+
+1@lenovo MINGW64 ~/Desktop/Abdulaziz (master)
+$ git remote add origin https://github.com/Abdulazizxoja/OneClick.git
+
+1@lenovo MINGW64 ~/Desktop/Abdulaziz (master)
+$ git push -u origin master
+Enumerating objects: 385, done.
+Counting objects: 100% (385/385), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (378/378), done.
+Writing objects: 100% (385/385), 59.45 MiB | 242.00 KiB/s, done.
+Total 385 (delta 71), reused 0 (delta 0)
+remote: Resolving deltas: 100% (71/71), done.
+To https://github.com/Abdulazizxoja/OneClick.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+1@lenovo MINGW64 ~/Desktop/Abdulaziz (master)
+$
